@@ -9,6 +9,9 @@ function App() {
     <div className="App">
       <Header />
       <ContainerSections/>
+      <footer>
+        <p>Imagens do Pexels, e textos do Wikipedia.</p>
+      </footer>
     </div>
   )
 }
