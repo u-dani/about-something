@@ -1,0 +1,8 @@
+
+.App {
+    min-height: 100vh;
+    font-family: 'Ubuntu', sans-serif;
+    max-width: 900px;
+    width: 90vw;
+    margin: 0 auto;
+}
